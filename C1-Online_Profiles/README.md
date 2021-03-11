@@ -17,3 +17,5 @@ Provide a link to your LinkedIn account here.
 [Kristin's LinkedIn Account](https://www.linkedin.com/in/kristin-geiger-361442154/)
 
 ### Resume
+
+[Kristin's Resume](https://github.com/kgeiger08/liftoff-assignments/blob/master/C1-Online_Profiles/Kristin%20Geiger%20Resume.pdf)
