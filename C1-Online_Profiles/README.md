@@ -8,11 +8,12 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
+
+[Kristin's GitHub Account](https://github.com/kgeiger08)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Kristin's LinkedIn Account](https://www.linkedin.com/in/kristin-geiger-361442154/)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+### Resume
